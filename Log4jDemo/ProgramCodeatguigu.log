@@ -1,0 +1,3 @@
+2017-12-29 16:12:45,864  INFO (com.atguigu.dao.UserDaoImpl:main) - ---------------info
+2017-12-29 16:12:45,866  WARN (com.atguigu.dao.UserDaoImpl:main) - ---------------warn
+2017-12-29 16:12:45,866 ERROR (com.atguigu.dao.UserDaoImpl:main) - -------------error
